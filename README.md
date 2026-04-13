@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">¡Bienvenid@!👋</h1>
-  <img src="https://i.imgur.com/8ZAT78g.png" alt="GIF animado" align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQECQcHSONFFfQ/profile-displaybackgroundimage-shrink_350_1400/B4DZsxqVklIgAc-/0/1766064741476?e=1777507200&v=beta&t=8l7XPyQtzPH-gPTm52k2hn7b50X0nLCniWO7jZCAlSs" alt="GIF animado" align="center">
 </div>
 
   
