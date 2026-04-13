@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">¡Bienvenid@!👋</h1>
+  <h1 align="center">¡Hola, soy Roberto!👋</h1>
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQECQcHSONFFfQ/profile-displaybackgroundimage-shrink_350_1400/B4DZsxqVklIgAc-/0/1766064741476?e=1777507200&v=beta&t=8l7XPyQtzPH-gPTm52k2hn7b50X0nLCniWO7jZCAlSs" alt="GIF animado" align="center">
 </div>
 
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL_Server-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
