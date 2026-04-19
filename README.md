@@ -4,19 +4,21 @@
 
   
 
-## Sobre mí
-- 📲 Backend Developer | Java | Spring Boot | APIs REST | SQL Server <br>
 <br>
-Ingeniero en Informática orientado al desarrollo de software, con foco en la construcción de soluciones escalables, robustas y de alta disponibilidad. Especializado en desarrollo backend con Java y Spring Boot, incluyendo diseño de APIs REST, integración de sistemas y modelado de datos en SQL Server.
+
+## 👩‍💻 Sobre mí
+
+Soy **Roberto**, Ingeniero en Informática orientado al desarrollo de software, con foco en la construcción de soluciones escalables, robustas y de alta disponibilidad. Especializado en desarrollo backend con Java y Spring Boot, incluyendo diseño de APIs REST, integración de sistemas y modelado de datos en SQL Server.
 
 Experiencia en entornos productivos trabajando con integraciones a APIs externas, optimización de rendimiento y resolución de incidencias críticas, contribuyendo a la estabilidad operativa y a la calidad de los sistemas.
 
 Sólidos conocimientos en arquitecturas orientadas a servicios (SOA), implementación de mecanismos de seguridad con JWT y desarrollo de procesos de integración de datos. Participación activa en equipos ágiles (Scrum), promoviendo buenas prácticas, clean code y mejora continua.
 
 En constante formación en arquitecturas modernas, microservicios y despliegue en la nube (AWS).
+
 <br>
 
-## *Lenguajes y Herramientas*
+## 🛠️ Lenguajes y Herramientas
 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
