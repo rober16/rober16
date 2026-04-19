@@ -7,6 +7,7 @@
 ## Sobre mí
 - 📲 Java developer | Spring Boot | APIs REST | SQL Server | Ingeniero en Informática
 <br>
+
 ## *Lenguajes y Herramientas*
 
 <p align="center">
