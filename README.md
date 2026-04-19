@@ -6,6 +6,7 @@
 
 ## Sobre mí
 - 📲 Backend Developer | Java | Spring Boot | APIs REST | SQL Server <br>
+<br>
 Ingeniero en Informática orientado al desarrollo de software, con foco en la construcción de soluciones escalables, robustas y de alta disponibilidad. Especializado en desarrollo backend con Java y Spring Boot, incluyendo diseño de APIs REST, integración de sistemas y modelado de datos en SQL Server.
 
 Experiencia en entornos productivos trabajando con integraciones a APIs externas, optimización de rendimiento y resolución de incidencias críticas, contribuyendo a la estabilidad operativa y a la calidad de los sistemas.
