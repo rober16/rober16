@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola , Soy Roberto Gomez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQECQcHSONFFfQ/profile-displaybackgroundimage-shrink_350_1400/B4DZsxqVklIgAc-/0/1766064741476?e=1777507200&v=beta&t=8l7XPyQtzPH-gPTm52k2hn7b50X0nLCniWO7jZCAlSs" alt="GIF animado" align="center">
@@ -22,7 +22,7 @@ En constante formación en arquitecturas modernas, microservicios y despliegue e
 
 <br>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🛠️ Lenguajes y Herramientas
 
@@ -40,16 +40,16 @@ En constante formación en arquitecturas modernas, microservicios y despliegue e
 
 <br>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🚀 Mis Proyectos
 [![Comparador-Precios-INDEC](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Comparador-Precios-INDEC&theme=algolia&show_owner=false)](https://github.com/rober16/Comparador-Precios-INDEC)
 [![Social-Net-Profiler](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Social-Net-Profiler&theme=algolia&show_owner=false)](https://github.com/rober16/Social-Net-Profiler)
 [![Sistema-Cochera-Qt](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Sistema-Cochera-Qt&theme=algolia&show_owner=false)](https://github.com/rober16/Sistema-Cochera-Qt)
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/rober16">
