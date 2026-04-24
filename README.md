@@ -8,13 +8,19 @@
 
 ## 👩‍💻 Sobre mí
 
-Soy **Roberto**, Ingeniero en Informática orientado al desarrollo de software, con foco en la construcción de soluciones escalables, robustas y de alta disponibilidad. Especializado en desarrollo backend con Java y Spring Boot, incluyendo diseño de APIs REST, integración de sistemas y modelado de datos en SQL Server.
+🎓 **Ingeniero en Informática**
 
-Experiencia en entornos productivos trabajando con integraciones a APIs externas, optimización de rendimiento y resolución de incidencias críticas, contribuyendo a la estabilidad operativa y a la calidad de los sistemas.
+💻 **Desarrollador Backend** especializado en Java y Spring Boot, enfocado en construir soluciones escalables, robustas y de alta disponibilidad
 
-Sólidos conocimientos en arquitecturas orientadas a servicios (SOA), implementación de mecanismos de seguridad con JWT y desarrollo de procesos de integración de datos. Participación activa en equipos ágiles (Scrum), promoviendo buenas prácticas, clean code y mejora continua.
+🔧 Experiencia en diseño de APIs REST, integración de sistemas y modelado de datos con SQL Server
 
-En constante formación en arquitecturas modernas, microservicios y despliegue en la nube (AWS).
+⚙️ Trabajo en entornos productivos con integraciones a APIs externas, optimización de rendimiento y resolución de incidencias críticas
+
+🧠 Conocimientos en arquitecturas orientadas a servicios (SOA), seguridad con JWT y procesos de integración de datos
+
+🤝 Participación en equipos ágiles (Scrum), aplicando buenas prácticas, clean code y mejora continua
+
+📝 En constante formación en microservicios y despliegue en la nube (AWS)
 
 <br>
 
