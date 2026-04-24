@@ -10,7 +10,7 @@
 
 🎓 **Ingeniero en Informática**
 
-💻 **Desarrollador Backend** especializado en Java y Spring Boot, enfocado en construir soluciones escalables, robustas y de alta disponibilidad
+💻 **Desarrollador Backend** especializado en Java y Spring Boot, enfocado en construir soluciones escalables y de alta disponibilidad
 
 🔧 Experiencia en diseño de APIs REST, integración de sistemas y modelado de datos con SQL Server
 
