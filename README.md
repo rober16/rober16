@@ -34,6 +34,11 @@ En constante formación en arquitecturas modernas, microservicios y despliegue e
 
 <br>
 
+## 🚀 Mis Proyectos
+[![Comparador-Precios-INDEC](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Comparador-Precios-INDEC&theme=algolia&show_owner=false)](https://github.com/rober16/Comparador-Precios-INDEC)
+[![Social-Net-Profiler](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Social-Net-Profiler&theme=algolia&show_owner=false)](https://github.com/rober16/Social-Net-Profiler)
+[![Sistema-Cochera-Qt](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Sistema-Cochera-Qt&theme=algolia&show_owner=false)](https://github.com/rober16/Sistema-Cochera-Qt)
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
