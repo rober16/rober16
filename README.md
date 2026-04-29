@@ -45,6 +45,7 @@
 
 ## 🚀 Mis Proyectos
 [![Comparador-Precios-INDEC](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Comparador-Precios-INDEC&theme=algolia&show_owner=false)](https://github.com/rober16/Comparador-Precios-INDEC)
+[![springboot-task-api](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=springboot-task-api&theme=algolia&show_owner=false)](https://github.com/rober16/springboot-task-api)
 [![Social-Net-Profiler](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Social-Net-Profiler&theme=algolia&show_owner=false)](https://github.com/rober16/Social-Net-Profiler)
 [![Sistema-Cochera-Qt](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Sistema-Cochera-Qt&theme=algolia&show_owner=false)](https://github.com/rober16/Sistema-Cochera-Qt)
 
