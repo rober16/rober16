@@ -1,9 +1,4 @@
 <h1 align="center"><b>Hola , Soy Roberto Gomez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQECQcHSONFFfQ/profile-displaybackgroundimage-shrink_350_1400/B4DZsxqVklIgAc-/0/1766064741476?e=1777507200&v=beta&t=8l7XPyQtzPH-gPTm52k2hn7b50X0nLCniWO7jZCAlSs" alt="GIF animado" align="center">
-</div>
-
 <br>
 
 ## 👩‍💻 Sobre mí
