@@ -95,6 +95,7 @@ Sistema desktop desarrollado con Qt orientado a la administración de cocheras y
 # 🔥 Contribution Streak
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rober16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img src="https://streak-stats.demolab.com?user=rober16&theme=tokyonight&hide_border=false"/>
 </p>
 
