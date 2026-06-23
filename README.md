@@ -18,7 +18,7 @@ Backend Developer • Java • Spring Boot • APIs REST • SQL Server
 
 Soy **Ingeniero en Informática** y desarrollador backend especializado en el ecosistema Java.
 
-Actualmente trabajo desarrollando y manteniendo sistemas utilizados en entornos productivos, enfocados en:
+Actualmente trabajo desarrollando sistemas, enfocados en:
 
 - APIs REST escalables
 - Integración de sistemas
@@ -50,7 +50,7 @@ Me interesa especialmente el desarrollo backend de alta disponibilidad, microser
 
 ---
 
-# 📌 Proyectos Destacados
+# ⭐ Proyectos Destacados
 
 ### 📊 Comparador de Precios INDEC
 Aplicación para análisis y comparación de precios utilizando datos oficiales del INDEC.
