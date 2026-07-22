@@ -26,7 +26,7 @@ Disfruto aprender continuamente, explorar nuevas herramientas y enfrentar desafÃ
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,spring,docker,postgres,mysql,git,github,idea,vscode,postman,obsidian,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,spring,docker,postgres,mysql,git,github,idea,vscode,postman,obsidian,bash,aws&theme=dark" />
 
 </p>
 
