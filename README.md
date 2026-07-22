@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Roberto%20Gomez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Java%20&%20Spring%20Boot&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Roberto%20Gomez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Java%20|%20Python%20|%20Spring%20Boot&descAlignY=55&descSize=18"/>
 </p>
 
 <h3 align="center">
-Backend Developer • Java • Spring Boot • APIs REST • SQL Server
+Software Engineer • Full Stack Development • Java • Python
 </h3>
 
 <p align="center">
@@ -16,18 +16,23 @@ Backend Developer • Java • Spring Boot • APIs REST • SQL Server
 
 # 👨‍💻 Sobre mí
 
-Soy **Ingeniero en Informática** y desarrollador backend especializado en el ecosistema Java.
+Soy **Ingeniero en Informática** y **Software Developer**, apasionado por diseñar y desarrollar soluciones tecnológicas eficientes, escalables y mantenibles.
 
-Actualmente trabajo desarrollando sistemas, enfocados en:
+Tengo experiencia participando en el desarrollo de aplicaciones web, herramientas de escritorio e integración de sistemas, colaborando en distintas etapas del ciclo de vida del software, desde el análisis hasta la implementación.
 
-- APIs REST escalables
-- Integración de sistemas
-- Optimización de rendimiento
-- Seguridad con JWT
+Actualmente trabajo en proyectos relacionados con:
+
+- Desarrollo de aplicaciones y APIs REST
+- Integración entre sistemas
+- Optimización de rendimiento y consultas SQL
+- Modelado y administración de bases de datos
+- Seguridad mediante autenticación JWT
 - Arquitecturas orientadas a servicios (SOA)
-- SQL Server y modelado de datos
+- Desarrollo con Java, Spring Boot, SQL Server y tecnologías web
 
-Me interesa especialmente el desarrollo backend de alta disponibilidad, microservicios y despliegues cloud con AWS.
+Además de mi experiencia profesional, desarrollo proyectos personales para seguir aprendiendo y explorar nuevas tecnologías como Python, análisis de datos, automatización y aplicaciones multiplataforma.
+
+Siempre busco escribir código limpio, aplicar buenas prácticas de ingeniería y construir software confiable que aporte valor a los usuarios.
 
 ---
 
@@ -35,7 +40,7 @@ Me interesa especialmente el desarrollo backend de alta disponibilidad, microser
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,git,github,idea,vscode,postman,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,spring,docker,postgres,mysql,git,github,idea,vscode,postman,aws&theme=dark" />
 
 </p>
 
@@ -50,31 +55,51 @@ Me interesa especialmente el desarrollo backend de alta disponibilidad, microser
 
 ---
 
+# 💼 Áreas de experiencia
+
+- Desarrollo de Software
+- APIs REST
+- Desarrollo Backend con Java y Spring Boot
+- Aplicaciones Web
+- Aplicaciones de Escritorio
+- Bases de Datos Relacionales
+- Integración de Sistemas
+- Automatización con Python
+- Arquitectura en Capas
+- Autenticación y Seguridad (JWT)
+- SQL y Optimización de Consultas
+
+---
+
 # ⭐ Proyectos Destacados
 
 ### 📊 Comparador de Precios INDEC
-Aplicación para análisis y comparación de precios utilizando datos oficiales del INDEC.
+
+Aplicación para el análisis y comparación de precios utilizando datos oficiales del INDEC, con procesamiento y visualización de información.
 
 [![Comparador-Precios-INDEC](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Comparador-Precios-INDEC&theme=tokyonight&show_owner=false)](https://github.com/rober16/Comparador-Precios-INDEC)
 
 ---
 
 ### ✅ Spring Boot Task API
-API RESTful desarrollada con Spring Boot aplicando JWT, arquitectura en capas y buenas prácticas backend.
+
+API REST desarrollada con Spring Boot aplicando autenticación JWT, arquitectura en capas y buenas prácticas de ingeniería de software.
 
 [![springboot-task-api](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=springboot-task-api&theme=tokyonight&show_owner=false)](https://github.com/rober16/springboot-task-api)
 
 ---
 
 ### 🔎 Social Net Profiler
-Herramienta para análisis y recopilación de perfiles públicos en redes sociales.
+
+Herramienta desarrollada en Python para la recopilación y análisis de perfiles públicos en redes sociales mediante automatización y procesamiento de datos.
 
 [![Social-Net-Profiler](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Social-Net-Profiler&theme=tokyonight&show_owner=false)](https://github.com/rober16/Social-Net-Profiler)
 
 ---
 
 ### 🚗 Sistema Cochera Qt
-Sistema desktop desarrollado con Qt orientado a la administración de cocheras y control vehicular.
+
+Aplicación de escritorio desarrollada con Qt para la administración integral de cocheras, gestión de vehículos y control operativo.
 
 [![Sistema-Cochera-Qt](https://github-readme-stats.vercel.app/api/pin/?username=rober16&repo=Sistema-Cochera-Qt&theme=tokyonight&show_owner=false)](https://github.com/rober16/Sistema-Cochera-Qt)
 
@@ -86,7 +111,7 @@ Sistema desktop desarrollado con Qt orientado a la administración de cocheras y
 
 <a href="https://github.com/rober16">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rober16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rober16&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
@@ -110,7 +135,7 @@ Sistema desktop desarrollado con Qt orientado a la administración de cocheras y
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/TU_PERFIL">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
