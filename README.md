@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Software Engineer • Full Stack Development • Java • Python
+Software Engineer
 </h3>
 
 <p align="center">
@@ -16,23 +16,9 @@ Software Engineer • Full Stack Development • Java • Python
 
 # 👨‍💻 Sobre mí
 
-Soy **Ingeniero en Informática** y **Software Developer**, apasionado por diseñar y desarrollar soluciones tecnológicas eficientes, escalables y mantenibles.
+Soy **Ingeniero en Informática** y **Software Developer** de Córdoba, Argentina. Me apasiona diseñar y desarrollar soluciones de software que sean eficientes, mantenibles y escalables, siempre buscando resolver problemas reales mediante la tecnología.
 
-Tengo experiencia participando en el desarrollo de aplicaciones web, herramientas de escritorio e integración de sistemas, colaborando en distintas etapas del ciclo de vida del software, desde el análisis hasta la implementación.
-
-Actualmente trabajo en proyectos relacionados con:
-
-- Desarrollo de aplicaciones y APIs REST
-- Integración entre sistemas
-- Optimización de rendimiento y consultas SQL
-- Modelado y administración de bases de datos
-- Seguridad mediante autenticación JWT
-- Arquitecturas orientadas a servicios (SOA)
-- Desarrollo con Java, Spring Boot, SQL Server y tecnologías web
-
-Además de mi experiencia profesional, desarrollo proyectos personales para seguir aprendiendo y explorar nuevas tecnologías como Python, análisis de datos, automatización y aplicaciones multiplataforma.
-
-Siempre busco escribir código limpio, aplicar buenas prácticas de ingeniería y construir software confiable que aporte valor a los usuarios.
+Disfruto aprender continuamente, explorar nuevas herramientas y enfrentar desafíos técnicos. Me interesan especialmente la ingeniería de software, las arquitecturas de sistemas, el desarrollo backend, el análisis de datos y la inteligencia artificial.
 
 ---
 
@@ -63,8 +49,6 @@ Siempre busco escribir código limpio, aplicar buenas prácticas de ingeniería 
 - Aplicaciones Web
 - Aplicaciones de Escritorio
 - Bases de Datos Relacionales
-- Integración de Sistemas
-- Automatización con Python
 - Arquitectura en Capas
 - Autenticación y Seguridad (JWT)
 - SQL y Optimización de Consultas
